@@ -21,3 +21,5 @@ foodRouter.get("/list",listFood);
 foodRouter.post("/remove",authMiddleware,removeFood);
 
 export default foodRouter;
+
+// Development commit #1
