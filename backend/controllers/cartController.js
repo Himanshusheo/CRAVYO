@@ -51,3 +51,5 @@ const getCart = async (req, res) => {
 export { addToCart, removeFromCart, getCart };
 
 // Development commit #1
+
+// Development commit #2
