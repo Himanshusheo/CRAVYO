@@ -77,3 +77,5 @@ const Navbar = ({ setShowLogin }) => {
 };
 
 export default Navbar;
+
+// Development commit #1
