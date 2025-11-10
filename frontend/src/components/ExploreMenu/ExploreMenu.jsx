@@ -27,3 +27,5 @@ const ExploreMenu = ({category,setCategory}) => {
 };
 
 export default ExploreMenu;
+
+// Development commit #1
