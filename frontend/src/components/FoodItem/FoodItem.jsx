@@ -40,3 +40,5 @@ const FoodItem = ({ id, name, price, description, image }) => {
 export default FoodItem;
 
 // Development commit #1
+
+// Development commit #1
