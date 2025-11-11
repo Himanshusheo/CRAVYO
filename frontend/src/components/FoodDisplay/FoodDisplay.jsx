@@ -30,3 +30,5 @@ const FoodDisplay = ({ category }) => {
 export default FoodDisplay;
 
 // Development commit #1
+
+// Development commit #2
