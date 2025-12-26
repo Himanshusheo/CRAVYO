@@ -677,10 +677,6 @@ Contributions are welcome! To contribute to this project:
 
 Please ensure your code follows the existing style and includes appropriate tests/documentation.
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 📧 Contact & Support
 
 For questions, suggestions, or support, please:
