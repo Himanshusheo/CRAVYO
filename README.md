@@ -16,8 +16,6 @@ A full-stack food ordering and delivery web application built with the MERN (Mon
 - [Running the Application](#running-the-application)
 - [Authentication & Authorization](#authentication--authorization)
 - [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 🎯 About the Project
 
